@@ -270,20 +270,35 @@ Future improvements may include:
 Add screenshots of:
 
 - Home Page
+- <img width="884" height="495" alt="image" src="https://github.com/user-attachments/assets/2b858027-e43f-48c5-87b2-d71f55ea7117" />
+
 - About Page
+- <img width="897" height="473" alt="image" src="https://github.com/user-attachments/assets/1c065e09-a334-407f-991f-f06fc52a9219" />
+
 - Destinations
+
+- <img width="896" height="485" alt="image" src="https://github.com/user-attachments/assets/7298e80e-d99d-4c6e-94ef-5ad8ae6c35e7" />
+
 - Packages
+- <img width="1519" height="856" alt="image" src="https://github.com/user-attachments/assets/15808111-8cc0-4735-80fd-94485fe52e10" />
+
 - Gallery
+- <img width="1801" height="925" alt="image" src="https://github.com/user-attachments/assets/35421985-55ac-431b-9ec6-d58559058050" />
+
 - Booking
+- <img width="1839" height="972" alt="image" src="https://github.com/user-attachments/assets/6fa1421f-8340-4201-b802-69bacf20f890" />
+
 - Contact
+- <img width="1785" height="925" alt="image" src="https://github.com/user-attachments/assets/6d1a7cd0-e77f-4219-b816-d98b0bec2739" />
+
 
 ---
 
 # 👨‍💻 Developer
 
-**Name:** Your Name
+**Name:** Thugu Harshavardhan reddy
 
-**College:** Your College Name
+**College:** Sai university
 
 **Department:** Computing and Data Science (CDS)
 
